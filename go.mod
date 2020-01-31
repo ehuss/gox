@@ -1,1 +1,1 @@
-module github.com/ehuss
+module github.com/ehuss/gox
